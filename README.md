@@ -1,2 +1,2 @@
-# buzzfeed-clone-dio
-Clone do buzzfeed desenvolvido em angular proposto pelo desafio da digital innovation one
+# angular-buzzfeed-clone-dio
+Desafio proposto no curso da digital innovation one
